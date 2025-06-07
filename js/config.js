@@ -164,7 +164,7 @@ const API_SITES = {
          adult: true
      },
      huanggua: {
-         api: 'https://www.avre06.com/api.php/Prodao/vod/?ac=list',
+         api: 'https://www.avre06.com/api.php/Prodao/vod/at/xml',
          name: '黄瓜资源',
          adult: true
      },
